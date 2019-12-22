@@ -3,6 +3,9 @@ A place for JodaTime extensions library for Ace.
 
 ## History
 
+* 1.1.0 -- 22 Dec 2019
+    + released first public binary
+    + added methods documentation comments
 * 1.0.0 -- 01 Oct 2019
     + released first public binary
     + added ace.date.Date class
