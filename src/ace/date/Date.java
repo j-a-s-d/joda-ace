@@ -17,7 +17,7 @@ public class Date extends Ace {
 	/**
 	 * Joda Ace version.
 	 */
-	public static final SemanticVersion JODA_ACE_VERSION = SemanticVersion.fromString("1.1.0");
+	public static final SemanticVersion JODA_ACE_VERSION = SemanticVersion.fromString("1.2.0");
 
 	/**
 	 * Date time zone used.

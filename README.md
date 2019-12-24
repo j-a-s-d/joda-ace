@@ -3,8 +3,12 @@ A place for JodaTime extensions library for Ace.
 
 ## History
 
+* 1.2.0 -- 24 Dec 2019
+    + released new binaries
+    + added sources and javadoc packages generation
+    + configured to depend on Ace 0.7.0
 * 1.1.0 -- 22 Dec 2019
-    + released first public binary
+    + released new binary
     + added methods documentation comments
 * 1.0.0 -- 01 Oct 2019
     + released first public binary
